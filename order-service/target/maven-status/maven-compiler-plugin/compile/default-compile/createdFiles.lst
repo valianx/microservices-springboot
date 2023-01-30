@@ -1,0 +1,13 @@
+com/valian/orderservice/dto/OrderRequest.class
+com/valian/orderservice/model/OrderLineItems.class
+com/valian/orderservice/service/OrderService.class
+com/valian/orderservice/event/OrderPlacedEvent.class
+com/valian/orderservice/repository/OrderRepository.class
+com/valian/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/valian/orderservice/config/WebClientConfig.class
+com/valian/orderservice/dto/OrderLineItemsDto.class
+com/valian/orderservice/dto/InventoryResponse.class
+com/valian/orderservice/config/KafkaConfig.class
+com/valian/orderservice/controller/OrderController.class
+com/valian/orderservice/OrderServiceApplication.class
+com/valian/orderservice/model/Order.class

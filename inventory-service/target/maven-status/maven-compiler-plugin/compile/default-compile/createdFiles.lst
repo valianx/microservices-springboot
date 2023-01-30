@@ -1,0 +1,7 @@
+Malian/inventoryservice/model/Inventory.class
+Malian/inventoryservice/controller/InventoryController.class
+Malian/inventoryservice/InventoryServiceApplication.class
+Malian/inventoryservice/dto/InventoryResponse.class
+Malian/inventoryservice/repository/InventoryRepository.class
+Malian/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+Malian/inventoryservice/service/InventoryService.class

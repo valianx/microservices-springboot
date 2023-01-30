@@ -1,0 +1,12 @@
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/model/OrderLineItems.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/OrderServiceApplication.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/config/WebClientConfig.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/model/Order.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/repository/OrderRepository.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/event/OrderPlacedEvent.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/service/OrderService.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/dto/InventoryResponse.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/dto/OrderLineItemsDto.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/config/KafkaConfig.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/controller/OrderController.java
+/Users/valian/Documents/java course/microservice new/order-service/src/main/java/com/valian/orderservice/dto/OrderRequest.java

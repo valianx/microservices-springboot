@@ -1,0 +1,10 @@
+com/valian/productservice/dto/ProductRequest.class
+com/valian/productservice/ProductServiceApplication.class
+com/valian/productservice/repository/ProductRepository.class
+com/valian/productservice/dto/ProductResponse.class
+com/valian/productservice/model/Product$ProductBuilder.class
+com/valian/productservice/model/Product.class
+com/valian/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/valian/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/valian/productservice/controller/ProductController.class
+com/valian/productservice/service/ProductService.class

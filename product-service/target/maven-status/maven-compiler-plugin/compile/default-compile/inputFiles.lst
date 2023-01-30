@@ -1,0 +1,7 @@
+/Users/valian/Documents/java course/microservice new/product-service/src/main/java/com/valian/productservice/model/Product.java
+/Users/valian/Documents/java course/microservice new/product-service/src/main/java/com/valian/productservice/ProductServiceApplication.java
+/Users/valian/Documents/java course/microservice new/product-service/src/main/java/com/valian/productservice/repository/ProductRepository.java
+/Users/valian/Documents/java course/microservice new/product-service/src/main/java/com/valian/productservice/dto/ProductRequest.java
+/Users/valian/Documents/java course/microservice new/product-service/src/main/java/com/valian/productservice/controller/ProductController.java
+/Users/valian/Documents/java course/microservice new/product-service/src/main/java/com/valian/productservice/service/ProductService.java
+/Users/valian/Documents/java course/microservice new/product-service/src/main/java/com/valian/productservice/dto/ProductResponse.java
